@@ -1,0 +1,11 @@
+node_modules
+.git
+.DS_Store
+dist
+out
+build
+.nx
+.idea
+.vscode
+.terraform
+*.log
